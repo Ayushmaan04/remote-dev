@@ -16,6 +16,7 @@ function App() {
       <h1>Click Event </h1>
       <button onClick={() => fruit("apple")}>Click Apple !!</button>
       <button onClick={() => fruit("bananna")}>Click bananna !!</button>
+		<h1>Koder works as well</h1>
 
 
 
