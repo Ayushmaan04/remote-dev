@@ -1,6 +1,6 @@
 import { useState } from "react";
 function App() {
-  const name = "John Doe";
+  const name = "Test remote dev pipeline";
 
   function callFunction() {
     alert("Hello, this is a function call!");
